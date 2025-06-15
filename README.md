@@ -18,7 +18,7 @@ I'm focusing on building a strong foundation in:
 
 ✅ Solving business-style problems using SQL
 
-I believe that data tells powerful stories — and I'm learning how to ask the right questions and let the data speak.
+I believe that data tells powerful stories and I'm learning how to ask the right questions and let the data speak!
 
 If you have any questions, feedback, or just want to connect, feel free to reach out. I'd love to chat!
 
