@@ -6,7 +6,7 @@
 
 ## Welcome to My SQL Portfolio! This code repository contains examples of SQL I've written. Feel free to take a look around and reach out if you have any questions!
 
-*This repository is a collection of my SQL projects as I learn and grow on my journey to becoming a data analyst. You'll find examples of how I query, clean, and analyze data using real-world scenarios and public datasets.
+This repository is a collection of my SQL projects as I learn and grow on my journey to becoming a data analyst. You'll find examples of how I query, clean, and analyze data using real-world scenarios and public datasets.
 
 I'm focusing on building a strong foundation in:
 
