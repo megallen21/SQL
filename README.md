@@ -11,8 +11,11 @@ This repository is a collection of my SQL projects as I learn and grow on my jou
 I'm focusing on building a strong foundation in:
 
 ✅ Writing clean and readable queries
+
 ✅ Using JOIN, GROUP BY, WHERE, and HAVING effectively
+
 ✅ Exploring window functions and subqueries
+
 ✅ Solving business-style problems using SQL
 
 I believe that data tells powerful stories — and I'm learning how to ask the right questions and let the data speak.
